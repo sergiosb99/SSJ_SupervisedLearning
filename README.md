@@ -14,7 +14,7 @@ Welcome to the repository of the SSJ work team, where a study will be carried ou
 All the information on the challenge can be found at the following link: [official website of the challenge DengAI](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/ "official website").
 
 To help the visitor:
-  - The data can be found at the following link:  [Data DengAI](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/ "challenge data").
+  - The data can be found at the following link:  [Data DengAI](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/data/ "challenge data").
   - And the explanation of the problem in this: [Problem Description](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page/82/ "description of the problem")
 
 
