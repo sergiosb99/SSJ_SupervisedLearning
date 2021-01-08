@@ -19,7 +19,7 @@ To help the visitor:
 
 
 ## Structuring the challenge
-Our approach will be, once the data has been processed and the best characteristics are chosen, we will test regression models from the library sklearn (AdaBoost, Boosting, DecisionTree, KNN, NaiveBayes, RandomForest).
+Our approach will be, once the data has been processed and the best characteristics are chosen, we will test regression models from the library sklearn (AdaBoost, Boosting, DecisionTree, KNN, NaiveBayes, RandomForest, SVC).
 
 This repository is organized in different branches:
 
