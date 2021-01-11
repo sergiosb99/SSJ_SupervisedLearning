@@ -25,9 +25,10 @@ This repository is organized in different branches:
 
 - [Baseline](https://github.com/sergiosb99/SSJ_SupervisedLearning/tree/Baseline "click to go baseline"): With a minimum configuration we will test the models and see the scores that it returns.
 
-- [Optimization](https://github.com/sergiosb99/SSJ_SupervisedLearning/tree/Optimization "click to go optimization"): Aún nose que poner
+- [Optimization](https://github.com/sergiosb99/SSJ_SupervisedLearning/tree/Optimization "click to go optimization"): We hyperparameterize the algorithms to try to get the best models that these algorithms can offer us.
 
-
+- [Novelty](https://github.com/sergiosb99/SSJ_SupervisedLearning/tree/Novelty "click to go novelty"): Modifications and other tests are attempted to achieve more efficient and accurate predictor models.
+ 
 ## Winning Submissions
 
 Algorithm | Score | Notes
