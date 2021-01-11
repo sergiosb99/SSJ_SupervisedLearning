@@ -1,7 +1,7 @@
 # Baseline
 In this branch the beginning of our study takes place.
 
-Before starting to think about which models could be carried out, we have carried out a study on the data provided to us to carry out the study.
+Before starting to think about what models could be made, we have done a study on the data that they have provided us to do the study.
 
 In the [Dengue_First_Look](https://github.com/sergiosb99/SSJ_SupervisedLearning/blob/Baseline/Dengue_First_Look.ipynb) notebook you can find an analysis of the features that make up the train data set, studying their correlation, and what variables are those that influence the spread of dengue.
 
