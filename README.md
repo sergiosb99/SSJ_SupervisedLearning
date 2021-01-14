@@ -13,3 +13,6 @@ All models use the RandomForest algorithm except clustering which uses DecisionT
   - [Dengue Upgrade Cities Weeks Years](https://github.com/sergiosb99/SSJ_SupervisedLearning/blob/Novelty/Dengue_Upgrade_Cities_Weeks_Years.ipynb)
   - [Dengue Upgrade Cities_Years](https://github.com/sergiosb99/SSJ_SupervisedLearning/blob/Novelty/Dengue_Upgrade_Cities_Years.ipynb)
   - [Dengue Upgrade Hierarchy Clustering](https://github.com/sergiosb99/SSJ_SupervisedLearning/blob/Novelty/Dengue_Upgrade_Hierarchy_Clustering.ipynb)
+  - [Dengue_Upgrade_Outliers_DBSCAN](https://github.com/sergiosb99/SSJ_SupervisedLearning/blob/Novelty/Dengue_Upgrade_Outliers_DBSCAN.ipynb)
+  - [Dengue_Upgrade_Clustering_Kmeans](https://github.com/sergiosb99/SSJ_SupervisedLearning/blob/Novelty/Dengue_Upgrade_Clustering_Kmeans.ipynb)
+  - [Dengue_Upgrade_Clustering_Hierarchical](https://github.com/sergiosb99/SSJ_SupervisedLearning/blob/Novelty/Dengue_Upgrade_Clustering_Hierarchical.ipynb)
