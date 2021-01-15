@@ -33,7 +33,9 @@ This repository is organized in different branches:
 
 Algorithm | Score | Notes
 --- | --- | --- 
- RandomForest | 22.4 😎 |  Baseline
+RandomForest | 26.1 | Novelty
+RandomForest | 26.3 | Novelty
+RandomForest | 26.6 | Novelty
 
 ## Components of the SSJ group
 - Sergio Barrios Martínez
